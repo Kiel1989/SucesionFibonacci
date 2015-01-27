@@ -4,6 +4,7 @@ import java.util.ArrayList;
  * Descripcion: Clase para realizar pruebas con 
  * 				otras clases desarroladas.
 * 		prueba para editar desde remoto
+* 		otra linea de prueba
  * 	Fecha:		22/01/2015
  */
 public class Test
